@@ -1,0 +1,134 @@
+TLinkedList
+v7
+r0
+t338595341.544290
+cCheck dependencies
+cProcessPCH /var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch.gch LinkedList_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/main.o "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/LinkedList.o "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004E6D8F2A00000000000000EE
+t1315802922
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC401D100000000000013E6
+t1287913937
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004DF9F81C0000000000B38DD0
+t1308227612
+s11767248
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h
+c000000004E7E5600000000000000016D
+t1316902400
+s365
+i<Foundation/Foundation.h>
+i"Node.h"
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m
+c000000004E7E55F40000000000000308
+t1316902388
+s776
+i<Foundation/Foundation.h>
+i"LinkedList.h"
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList_Prefix.pch
+c000000004E7E371100000000000000A2
+t1316894481
+s162
+i<Foundation/Foundation.h>
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.h
+c000000004E7E54240000000000000119
+t1316901924
+s281
+i<Foundation/Foundation.h>
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug/LinkedList
+t2
+s0
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/LinkedList.LinkFileList
+c000000004E7E568A000000000000013E
+t1316902538
+s318
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/LinkedList.o
+t2
+s0
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m
+c000000004E7E5688000000000000013E
+t1316902536
+s318
+i<Foundation/Foundation.h>
+i"LinkedList.h"
+
+N/var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch.gch
+t1316902541
+s41429776
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338595338#338595338#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/LinkedList.o "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s338595341.429427
+e338595341.543715
+r0
+xCompileC
+xbuild/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/LinkedList.o
+x/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m:10:
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h:22: error: expected identifier before 'char'
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m:25: error: expected identifier before 'char'
+lSLF07#2@101"Compile /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m338595341#338595341#0(398"In file included from /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m:10:/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h:22: error: expected identifier before 'char'/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m:25: error: expected identifier before 'char'2(4@33"Expected identifier before 'char'338595341#120#139#2(7@115"In file included from /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m338595341#18446744073709551615#0#0(6@93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m338595188#10#0#10#0#0"0(13@130"Expected identifier before 'char' in /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h338595341#18446744073709551615#0#0(6@93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h338595200#22#0#22#0#0"0(6@93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h338595200#22#0#22#0#19"expected * before *0(4@33"Expected identifier before 'char'338595341#259#139#0(6@93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m338595188#25#0#25#0#19"expected * before *0(0#0#93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m8619354336#2006"    cd "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-generated-files.hmap" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-own-target-headers.hmap" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-all-target-headers.hmap" -iquote "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-project-headers.hmap" "-F/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug/include" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/DerivedSources/x86_64" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/DerivedSources" -include /var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch -c "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.m" -o "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/LinkedList.o"1#
+
+CCompileC build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/main.o "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s338595341.427825
+e338595341.544074
+r0
+xCompileC
+xbuild/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/main.o
+x/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:2:
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h:22: error: expected identifier before 'char'
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m: In function 'main':
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: 'LinkedList' may not respond to '+insert::'
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: (Messages without a matching method signature
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: will be assumed to return 'id' and accept
+o/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: '...' as arguments.)
+lSLF07#2@95"Compile /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m338595341#338595341#0(918"In file included from /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:2:/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h:22: error: expected identifier before 'char'/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m: In function 'main':/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: 'LinkedList' may not respond to '+insert::'/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: (Messages without a matching method signature/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: will be assumed to return 'id' and accept/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m:11: warning: '...' as arguments.)3(4@33"Expected identifier before 'char'338595341#113#139#2(7@109"In file included from /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m338595341#18446744073709551615#0#0(6@87"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m338595336#2#0#2#0#0"0(13@130"Expected identifier before 'char' in /Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h338595341#18446744073709551615#0#0(6@93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h338595200#22#0#22#0#0"0(6@93"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList.h338595200#22#0#22#0#19"expected * before *0(22@43"'LinkedList' may not respond to '+insert::'338595341#361#145#0(6@87"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m338595336#11#0#11#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)338595341#506#147#0(6@87"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m338595336#11#0#11#0#0"0(0#0#87"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m8619804768#1994"    cd "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-generated-files.hmap" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-own-target-headers.hmap" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-all-target-headers.hmap" -iquote "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-project-headers.hmap" "-F/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug/include" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/DerivedSources/x86_64" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/DerivedSources" -include /var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch -c "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/main.m" -o "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug/LinkedList" normal x86_64
+r0
+
+CProcessPCH /var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch.gch LinkedList_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s338595338.984127
+e338595341.427509
+r1
+xProcessPCH
+x/var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch.gch
+xLinkedList_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@32"Precompile LinkedList_Prefix.pch338595339#338595341#0(0"0(0#0#102"/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList_Prefix.pch7958266739797621760#1853"    cd "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-generated-files.hmap" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-own-target-headers.hmap" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-all-target-headers.hmap" -iquote "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/LinkedList-project-headers.hmap" "-F/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/Debug/include" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/DerivedSources/x86_64" "-I/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/build/LinkedList.build/Debug/LinkedList.build/DerivedSources" -c "/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/LinkedList_Prefix.pch" -o /var/folders/Ad/Ad0sQuZQHsebW6vZeWHOzk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/LinkedList_Prefix-czqeoqqnnaogqqdnzyxakvpkrffw/LinkedList_Prefix.pch.gch0#
+

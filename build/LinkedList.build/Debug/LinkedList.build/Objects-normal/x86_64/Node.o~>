@@ -1,0 +1,6 @@
+/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.m: In function '-[Node setLetter:]':
+/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.m:37: warning: conflicting types for '-(void)setLetter:(char)inLetter'
+/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.h:31: warning: previous declaration of '-(char)setLetter:(char)inLetter'
+/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.m: In function '-[Node setValue:]':
+/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.m:47: warning: conflicting types for '-(void)setValue:(int)inValue'
+/Users/offthebreak98/Documents/DePaul Classes/Autumn 2011/CSC 371/PA2/LinkedList/Node.h:33: warning: previous declaration of '-(int)setValue:(int)inValue'
